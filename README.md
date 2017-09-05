@@ -1,2 +1,2 @@
 # hello-world
-First repositoty
+First repository
